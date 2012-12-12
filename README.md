@@ -1,7 +1,10 @@
 analogCardRandomizer
 ====================
-
 Cards are much slower than PRNGs, but a deck can be shuffled in such a way that no-one can predict the order.  Files:
+
+Full-color description available on my blog:
+http://glenpeterson.blogspot.com/2012/12/analog-random-character-generator.html
+
 
 cardsMsWord.doc - A Microsoft Word document that will print the cards (2-sided) onto 10 sheets of standard business card stock (Avery #5877).
 
