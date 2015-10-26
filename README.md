@@ -1,5 +1,8 @@
 analogCardRandomizer
 ====================
+
+![Printed Cards](randCharGenTiny.gif)
+
 Cards are much slower than PRNGs, but a deck can be shuffled in such a way that no-one can predict the order.  This project prints a deck of 95 characters, numbers, and symbols on business cards that you can then shuffle to generate truly random passwords of arbitrary strength.  The file that prints out the cards was done on Windows years ago (before I switched to Linux) and it was going to be difficult to convert it to OpenOffice.  If someone wants to, I'd love to incorporate that into this project. 
 
 Full-color description available on my blog:
